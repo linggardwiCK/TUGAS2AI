@@ -1,6 +1,6 @@
 Bagian B - Laporan Dokumentasi Perhitungan Manual Tsukamoto
 NIM: 2415354009
-Nama: lingggar dwi cahya kurnianto
+Nama: linggar dwi cahya kurnianto
 Input Uji Coba: Pengalaman Kerja = 4.0 Tahun, Nilai Ujian = 6.7
 
 Langkah 1: Menghitung Derajat Keanggotaan (Fuzzifikasi)
